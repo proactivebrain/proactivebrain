@@ -38,6 +38,7 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/sonjoy-ghosh-59273137/
+[cooltext]: https://lingojam.com/FancyTextGenerator 
 
 
 
