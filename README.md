@@ -18,6 +18,7 @@ Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan.
 <img align="left" title="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 <img align="left" title="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 <img align="left" title="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+<img align="left" title="Selenium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/selenium.svg" />
 <img align="left" title="Intellij Idea" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/intellijidea.svg" />
 <img align="left" title="Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
 <img align="left" title="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />
@@ -26,6 +27,7 @@ Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan.
 <img align="left" title="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" title="Dynatrace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dynatrace.svg" />
 <img align="left" title="JIRA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jira.svg" />
+<img align="left" title="Azure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" />
 
 
 
