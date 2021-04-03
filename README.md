@@ -29,6 +29,18 @@ Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan.
 <img align="left" title="JIRA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jira.svg" />
 <img align="left" title="Azure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" />
 
+<br />
+<br />
+<br />
+
+<details>
+  <summary>:zap:ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</summary>  
+</details>
+
+<details>
+  <summary>:zap: ɢɪᴛʜᴜʙ sᴛᴀᴛs</summary>
+</details>
+
 
 
 
