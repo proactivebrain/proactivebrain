@@ -1,6 +1,6 @@
-### 👋 Hi, I’m Sonjoy ! 
+### 👋 Hi, I’m Sonjoy ! 🇺🇸 🇧🇩
 
-I'm a Software Developer @ Test based in OH,USA. I 💞️ coding. Currently focused on Java and learing Python. 2021 goal is to conttribute code to open source projects.
+I'm a Software Developer @ Test based in OHIO. I 💞️ coding. Currently focused on Java and learing Python. My 2021 goal is to conttribute code to open source projects.
 
 Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan. Visca Barça| LM10 | GOAT
 
@@ -40,7 +40,4 @@ Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan.
 <details>
   <summary>:zap: ɢɪᴛʜᴜʙ sᴛᴀᴛs</summary>
 </details>
-
-
-
 
