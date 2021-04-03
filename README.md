@@ -14,17 +14,18 @@ Aside from coding, I enjoy camping,music,movies,documentary and huge soccer fan.
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-<img align="left" alt="Intellij Idea" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/intellijidea.svg" />
-<img align="left" alt="Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
-<img align="left" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />
-<img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />
-<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-<img align="left" alt="Dynatrace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dynatrace.svg" />
+<img align="left" title="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+<img align="left" title="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<img align="left" title="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
+<img align="left" title="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+<img align="left" title="Intellij Idea" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/intellijidea.svg" />
+<img align="left" title="Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
+<img align="left" title="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />
+<img align="left" title="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="left" title="Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />
+<img align="left" title="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="left" title="Dynatrace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dynatrace.svg" />
+<img align="left" title="JIRA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jira.svg" />
 
 
 
