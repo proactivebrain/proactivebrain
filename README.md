@@ -46,9 +46,19 @@
   <img align="left" alt="Sonjoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=proactivebrain&show_icons=true&hide_border=true&theme=highcontrast"/>
 </details>
 
+<details>
+  <summary>🙏 ɪɴꜱᴘɪʀᴇᴅ ʙʏ</summary>
+  
+  - [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+  - [jamesgeorge007](https://github.com/jamesgeorge007)
+  - [anuraghazra](https://github.com/anuraghazra)
+  
+</details>
+
 [linkedin]: https://www.linkedin.com/in/sonjoy-ghosh-59273137/
 [cooltext]: https://lingojam.com/FancyTextGenerator/
 [emoji]: https://emojipedia.org/
+[icon] : https://gist.github.com/rxaviers/7360908
 
 
 
