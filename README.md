@@ -31,6 +31,8 @@
 
 <details>
   <summary>:zap:ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</summary>  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
