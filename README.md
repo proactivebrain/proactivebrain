@@ -35,6 +35,7 @@
 
 <details>
   <summary>:zap: ɢɪᴛʜᴜʙ sᴛᴀᴛs</summary>
+  <img align="left" alt="Sonjoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=proactivebrain&show_icons=true&hide_border=true&theme=highcontrast"/>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/sonjoy-ghosh-59273137/
