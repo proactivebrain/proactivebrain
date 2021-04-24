@@ -31,12 +31,14 @@
 
 <details>
   <summary>:zap:ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</summary>  
+  
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/proactivebrain/proactivebrain/pull/2) in [proactivebrain/proactivebrain](https://github.com/proactivebrain/proactivebrain)
 2. 💪 Opened PR [#2](https://github.com/proactivebrain/proactivebrain/pull/2) in [proactivebrain/proactivebrain](https://github.com/proactivebrain/proactivebrain)
 3. 🎉 Merged PR [#1](https://github.com/proactivebrain/now-playing-profile/pull/1) in [proactivebrain/now-playing-profile](https://github.com/proactivebrain/now-playing-profile)
 4. 💪 Opened PR [#1](https://github.com/proactivebrain/now-playing-profile/pull/1) in [proactivebrain/now-playing-profile](https://github.com/proactivebrain/now-playing-profile)
   <!--END_SECTION:activity-->
+  
 </details>
 
 <details>
