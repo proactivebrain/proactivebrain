@@ -58,7 +58,7 @@
 [linkedin]: https://www.linkedin.com/in/sonjoy-ghosh-59273137/
 [cooltext]: https://lingojam.com/FancyTextGenerator/
 [emoji]: https://emojipedia.org/
-[icon] : https://gist.github.com/rxaviers/7360908
+[icon]: https://gist.github.com/rxaviers/7360908
 
 
 
